@@ -1,0 +1,19 @@
+asgiref==3.5.1
+Django==3.2.13
+django-adminlte3==0.1.6
+django-filter==21.1
+djangorestframework==3.13.1
+djangorestframework-simplejwt==5.1.0
+importlib-metadata==4.11.3
+Markdown==3.3.6
+PyJWT==2.3.0
+pytz==2022.1
+sqlparse==0.4.2
+typing_extensions==4.2.0
+zipp==3.8.0
+drf_spectacular
+django-cors-headers
+django-jalali-date
+pip install django-dal
+django-jalali
+persiantools
